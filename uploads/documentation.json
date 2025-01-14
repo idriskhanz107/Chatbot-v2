@@ -1,21 +1,9 @@
 {
-    "dataSources": [
-      {
-        "name": "Segment",
-        "documentation": "https://segment.com/docs/?ref=nav"
-      },
-      {
-        "name": "mParticle",
-        "documentation": "https://docs.mparticle.com/"
-      },
-      {
-        "name": "Lytics",
-        "documentation": "https://docs.lytics.com/"
-      },
-      {
-        "name": "Zeotap",
-        "documentation": "https://docs.zeotap.com/home/en-us/"
-      }
+    "documents": [
+      { "name": "mParticle Documentation", "url": "https://docs.mparticle.com/" },
+      { "name": "Lytics Documentation", "url": "https://docs.lytics.com/" },
+      { "name": "Segment Documentation", "url": "https://segment.com/docs/?ref=nav" },
+      { "name": "Zeotap Documentation", "url": "https://docs.zeotap.com/home/en-us/ " }
     ]
   }
   
